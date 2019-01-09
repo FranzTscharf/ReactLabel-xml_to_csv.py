@@ -3,6 +3,6 @@ This little modification of the default script let you convert the xml files fro
 
 # Usage
 
-'''bash
+```bash
 python xml_to_csv.py -i images/train/ -o annotations/train_labels.csv
-'''
+```
